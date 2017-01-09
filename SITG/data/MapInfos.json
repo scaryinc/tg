@@ -1,6 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"DEBUG_MAP","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"Starting Events","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Prequel Intro","order":3,"parentId":2,"scrollX":459,"scrollY":312.5}
+{"id":2,"expanded":true,"name":"Starting Events","order":2,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":3,"expanded":true,"name":"Prequel Intro","order":3,"parentId":2,"scrollX":459,"scrollY":312.5},
+{"id":4,"expanded":true,"name":"Potaro Town","order":4,"parentId":3,"scrollX":918,"scrollY":625},
+{"id":5,"expanded":false,"name":"PC's home","order":5,"parentId":4,"scrollX":918,"scrollY":625}
 ]
